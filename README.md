@@ -4,6 +4,7 @@ SteamDisableOverlayBypass is a simple command-line script to bypass the `Disable
 Some games have their Steam Overlay disabled regardless of user settings because the developers thought it might lead to conflicts. However, many games with this flag can have their overlay restored without issues.
 
 ## Usage
+- Download the latest release [here](https://github.com/Joshhhuaaa/SteamDisableOverlayBypass/releases/download/v1.0/SteamDisableOverlayBypass.exe)
 - Run the executable: `SteamDisableOverlayBypass.exe`
 - If Steam is running when the script is executed, restart Steam to apply the changes.
 
